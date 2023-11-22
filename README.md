@@ -116,6 +116,8 @@ workshop.html
 ```
 
 # Output:
-![Alt text](myproj/static/html/map.jpg)
+![image](https://github.com/PRASHANTHRATHI/Ex-04-webTech_imagemap/assets/145743120/b04b205a-ce99-4b72-a95f-0c34df7597d0)
+
+
 # Result:
 The program for implementing image map is executed successfully.
